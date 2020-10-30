@@ -1,6 +1,7 @@
 # tic-tac-toe-with-python
 
 This Desktop App was for the Programming 1 Course.
+
 Nursultan Karybekov
 
 Requirements: 
