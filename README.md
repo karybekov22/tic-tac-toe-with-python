@@ -1,6 +1,7 @@
 # tic-tac-toe-with-python
 
 This Desktop App was for the Programming 1 Course.
+Nursultan Karybekov
 
 Requirements: 
 - [x] 4 functions(20pt) [link](https://github.com/karybekov22/tic-tac-toe-with-python/blob/07bd2157a95b33da6bfdd65f20d885e573ab665a/main.py#L12-L22) [link](https://github.com/karybekov22/tic-tac-toe-with-python/blob/07bd2157a95b33da6bfdd65f20d885e573ab665a/main.py#L161-L176) [link](https://github.com/karybekov22/tic-tac-toe-with-python/blob/07bd2157a95b33da6bfdd65f20d885e573ab665a/main.py#L178-L209) [link](https://github.com/karybekov22/tic-tac-toe-with-python/blob/07bd2157a95b33da6bfdd65f20d885e573ab665a/main.py#L24-L159)
