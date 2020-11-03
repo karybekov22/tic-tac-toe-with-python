@@ -24,3 +24,4 @@ Screenshots:
 <img src="https://github.com/karybekov22/tic-tac-toe-with-python/blob/main/Screen%20Shot%202020-10-31%20at%2001.25.01.png">
 <img src="https://github.com/karybekov22/tic-tac-toe-with-python/blob/main/Screen%20Shot%202020-10-31%20at%2001.25.29.png">
 <img src="https://github.com/karybekov22/tic-tac-toe-with-python/blob/main/Screen%20Shot%202020-10-31%20at%2001.25.59.png">
+<img src="https://github.com/karybekov22/tic-tac-toe-with-python/blob/main/Screen%20Shot%202020-11-03%20at%2011.49.27.png">
