@@ -13,7 +13,7 @@ Requirements:
 
 10 bonus points each for:
 - [ ] 5 text feedbacks for your project from different people) or 1 video feedback
-- [x] github repostory with readme.md description with screenshots
+- [x] github repostory with readme.md description with screenshots [link](https://github.com/karybekov22/tic-tac-toe-with-python/blob/main/README.md)
 
 Tutorials used:
 - Codemy.com YT [link](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw)
